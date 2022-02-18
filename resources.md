@@ -24,6 +24,7 @@
 4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 
 ### Coding
+1.  ["Grokking Algorithms" by Bhargava](https://www.manning.com/books/grokking-algorithms)
 
 
 ## Contents
