@@ -9,3 +9,6 @@ Started with Grokking Algorithm by Bhargava https://www.manning.com/books/grokki
 
 ### R1D2
 Write the selection sort.
+
+### R1D3
+Write the quick sort.
