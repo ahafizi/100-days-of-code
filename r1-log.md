@@ -12,3 +12,6 @@ Write the selection sort.
 
 ### R1D3
 Write the quick sort.
+
+### R1D4
+Read hash tables.

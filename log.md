@@ -26,3 +26,17 @@
 
 **Link to work:** [Quick Sort](https://github.com/ahafizi/100-days-of-code/tree/master/src/sort/quick_sort.php)
 
+
+### Day 4: February 25, 2022
+
+**Today's Progress**:  Learn hash tables.
+
+**Thoughts:** Hash tables
+
+### Day 5: February 27, 2022
+
+**Today's Progress**:  Learn and implements Breadth First Search (BFS).
+
+**Thoughts:** It's very wonderful data structure for find quick path from A to B
+
+**Link to work:** [BFS](https://github.com/ahafizi/100-days-of-code/tree/master/src/graph/breadth_first_search.php)
