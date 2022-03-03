@@ -15,3 +15,9 @@ Write the quick sort.
 
 ### R1D4
 Read hash tables.
+
+### R1D5
+Breadth first search (BFS).
+
+### R1D6
+Dijkstra find shortest path.

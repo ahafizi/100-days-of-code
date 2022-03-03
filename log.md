@@ -39,4 +39,12 @@
 
 **Thoughts:** It's very wonderful data structure for find quick path from A to B
 
-**Link to work:** [BFS](https://github.com/ahafizi/100-days-of-code/tree/master/src/graph/breadth_first_search.php)
+**Link to work:
+
+### Day 6: March 2, 2022
+
+**Today's Progress**:  Learn and implements Algorithm Dijkstra.
+
+**Thoughts:** It's very wonderful data structure for find quick path from A to B
+
+**Link to work:** [Dijkstra](https://github.com/ahafizi/100-days-of-code/tree/master/src/graph/dijkstra_algo.php)
